@@ -3,7 +3,7 @@
 ---
 
 ## 🙋‍♀️ About Me 
-- **🔍 Focus**: Domain-Specific sLLM Fine-tuning, RAG Optimization, Agetic Workflow
+- **🔍 Focus**: Domain-Specific sLLM Fine-tuning, RAG Optimization, Agentic Workflow
 - **💪 Strength**: 기획부터 데이터 수집, 전처리, 모델링, 서비스 배포까지 **E2E** 개발을 주도합니다.
   
 ---
@@ -19,7 +19,7 @@
 ### Certificates
 - **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원
 - **SQL 개발자 (SQLD)** | 한국데이터산업진흥원
-- **정보처리기사 | 한국산업인력공단**
+- **정보처리기사** | 한국산업인력공단
 - **어학** | TOEIC(870), OPIC(IM3)
   
 ---
