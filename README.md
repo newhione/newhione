@@ -1,7 +1,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hi!+I'm+Hyewon+%3A)" alt="Typing SVG" /></a>
+
 ---
 
-**Languages / Library / Tools** 
+## 🙋‍♀️ About Me 
+- **🔍 Focus**: Domain-Specific sLLM Fine-tuning, RAG Optimization, Agetic Workflow
+- **💪 Strength**: 기획부터 데이터 수집, 전처리, 모델링, 서비스 배포까지 **E2E** 개발을 주도합니다.
+  
+---
+
+## 🎓 Education & Awards
+### Education
+- **한국외국어대학교** | 산업공학과 / 국제금융학과 (학점 4.0/4.5)
+- **한국외국어대학교 Google Developer Group 7th** | Core Member (2025.09 - now)
+- **한국외국어대학교 Google Developer Group 6th** | Basic Member (2024.09 - 2025.08)
+- **SK networks Family AI Camp 20기** | AI/SW 개발자 과정 수료 (2025.09 - 2026.03)
+### Award
+- **한국외국어대학교 제 19회 Better World Idea 공작소** | 최우수상 (2025.08)
+### Certificates
+- **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원
+- **SQL 개발자 (SQLD)** | 한국데이터산업진흥원
+- **정보처리기사 | 한국산업인력공단**
+- **어학** | TOEIC(870), OPIC(IM3)
+  
+---
+
+## 📚 Languages / Library / Tools
   
 ![js](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)</a>
 ![js](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)</a>
