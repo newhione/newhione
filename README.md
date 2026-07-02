@@ -10,7 +10,7 @@
 
 ## 🎓 Education & Awards
 ### Education
-- **한국외국어대학교** | 산업공학과 / 국제금융학과 (학점 4.0/4.5)
+- **한국외국어대학교** | 산업공학과 / 국제금융학과
 - **한국외국어대학교 Google Developer Group 7th** | Core Member (2025.09 - now)
 - **한국외국어대학교 Google Developer Group 6th** | Basic Member (2024.09 - 2025.08)
 - **SK networks Family AI Camp 20기** | AI/SW 개발자 과정 수료 (2025.09 - 2026.03)
