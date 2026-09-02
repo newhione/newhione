@@ -2,27 +2,10 @@
 
 ---
 
-## 🙋‍♀️ About Me 
-- **🔍 Focus**: Domain-Specific sLLM Fine-tuning, RAG Optimization, Agentic Workflow
----
+## Focus
+Domain-Specific sLLM Fine-tuning, RAG Optimization, Agentic Workflow
 
-## 🎓 Education & Awards
-### Education
-- **한국외국어대학교** | 산업공학과 / 국제금융학과
-- **한국외국어대학교 Google Developer Group 7th** | Core Member (2025.09 - now)
-- **한국외국어대학교 Google Developer Group 6th** | Basic Member (2024.09 - 2025.08)
-- **SK networks Family AI Camp 20기** | AI/SW 개발자 과정 수료 (2025.09 - 2026.03)
-### Award
-- **한국외국어대학교 제 19회 Better World Idea 공작소** | 최우수상 (2025.08)
-### Certificates
-- **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원
-- **SQL 개발자 (SQLD)** | 한국데이터산업진흥원
-- **정보처리기사** | 한국산업인력공단
-- **어학** | TOEIC(870), OPIC(IM3)
-  
----
-
-## 📚 Languages / Library / Tools
+## Languages / Library / Tools
   
 ![js](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)</a>
 ![js](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)</a>
@@ -38,9 +21,6 @@
 ![js](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)</a>
 ![js](https://img.shields.io/badge/LangChain-7FC8FF?style=flat&logo=langchain&logoColor=white)</a>
 ![js](https://img.shields.io/badge/LangGraph-7FC8FF?style=flat&logo=langgraph&logoColor=white)</a>
-
-
-**Contact**
 
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
