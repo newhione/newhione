@@ -22,11 +22,6 @@ Domain-Specific sLLM Fine-tuning, RAG Optimization, Agentic Workflow
 ![js](https://img.shields.io/badge/LangChain-7FC8FF?style=flat&logo=langchain&logoColor=white)</a>
 ![js](https://img.shields.io/badge/LangGraph-7FC8FF?style=flat&logo=langgraph&logoColor=white)</a>
 
-![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![js](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 
 
